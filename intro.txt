@@ -1,0 +1,7 @@
+Myself Meela Anjali I have completed B.Tech Graduation in Computer science and Engineering from 
+Sri Venkateswara Engineering College at Suryapet.During academics i have built strong foundation in promgramming languages C,Python.
+Apart from academics i have bulit static webpages first is "My personal Porfolio" i have developed using HTML,CSS contains my projects,contact details,urls,my accounts.
+another is vaaradhi farms website it contains Natural products to buy using HTML,CSS.
+coming to academic projects we bulit 2 projects "Fake Logo Detection Using Deep learing" and "Detecting Unbalanced Network intrusions wth Deep learing".
+My hobbies are listening Music,making arts and crafts.
+Eager to contribute my skills and grow professionally.
